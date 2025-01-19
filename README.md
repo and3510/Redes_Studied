@@ -10,14 +10,12 @@
 
 * [Packet Tracer](#packettracer)
 * [Apostilas](#apostilas)
-* [Requisitos](#requisitos)
-* [Ferramentas](#ferramentas)
-* [Dificuldades](#dificuldades)
-* [Resultados](#resultados)
-* [Conclusão](#conclusao)
+* [Linux Utilitarios](#utilitarios)
+
 
 ## Packet Tracer
 
 
 ## Apostilas
 
+## Linux Utilitarios
